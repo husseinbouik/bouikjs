@@ -1,3 +1,3 @@
-const helloNpm = require('fiaz');
+const helloNpm = require('bouik');
 
 console.log(helloNpm());
