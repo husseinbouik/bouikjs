@@ -1,0 +1,26 @@
+{
+  "name": "bouikjs",
+  "version": "1.0.0",
+  "description": "an npm package",
+  "main": "index.ts",
+  "scripts": {
+    "test": "node test/script.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/husseinbouik/bouikjs"
+  },
+  "keywords": [
+    "bouik",
+    "bouikjs"
+  ],
+  "author": "husseinbouik",
+  "homepage": "https://github.com/husseinbouik/bouikjs#readme",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.6"
+  }
+}
